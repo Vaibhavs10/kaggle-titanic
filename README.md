@@ -22,3 +22,16 @@ This is one of the most common type of ML.
 
 **Reinforcement Learning** - It is an area of machine learning inspired by behaviorist psychology, concerned with how software agents ought to take actions in an environment so as to maximize some notion of cumulative reward.
 
+###Most commonly used Machine Learning techniques:
+1. Linear Regression
+2. Logistic Regression
+3. Decision Tree
+4. Support Vector Machine (SVM)
+5. Naive Bayes
+6. K-Nearest Neighbors (KNN)
+7. K-Means
+8. Random Forest
+9. Dimensionality Reduction
+10. Gradient Boost and Adaboost
+
+*Check the attached IPython notebooks for in detail exploration of these Algorithms!*
