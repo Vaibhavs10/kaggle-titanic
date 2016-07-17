@@ -34,4 +34,4 @@ This is one of the most common type of ML.
 9. Dimensionality Reduction
 10. Gradient Boost and Adaboost
 
-*Check the attached IPython notebooks for in detail exploration of these Algorithms!*
+*Check the attached IPython notebook for in detail exploration of these Algorithms!*
